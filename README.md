@@ -18,8 +18,8 @@ HOW TO RUN THE TESTS
 
 1️. Clone the Repository
 
-git clone <your-repo-link>
-cd <project-folder>
+git clone https://github.com/praveenrk30004/Kaplan-Automation
+cd KaplanAssignment
 
 2️. Run with Maven
 
