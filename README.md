@@ -25,7 +25,15 @@ cd KaplanAssignment
 
 mvn test -Dtest=runners.OrderedTestSuite
 
-3️. View Reports
+3. Using IntelliJ IDEA / Eclipse
+If you are using an IDE like IntelliJ or Eclipse:
+
+Open the project in your IDE.
+Navigate to src/test/java/runners/OrderedTestSuite.java 
+Right-click on the file.
+Select Run as > JUnit Test
+
+4. View Reports
 
 After test execution, open the following file in your browser:
 
